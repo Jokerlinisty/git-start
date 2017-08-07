@@ -1,2 +1,3 @@
 # git-start
-git is easy and powerful!
+Git is Easy and powerful!
+This is another line
