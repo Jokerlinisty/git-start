@@ -1,2 +1,3 @@
 # git-start
-git learning
+git is easy and powerful!
+Add new Line content 1002 
