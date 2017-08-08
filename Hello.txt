@@ -1,3 +1,5 @@
 Hello, welcome to git world!
 
 local new text!
+new remote text!
+solve conflict!!
