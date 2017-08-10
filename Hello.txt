@@ -1,6 +1,4 @@
 Hello, welcome to git world!
-
 new remote text!
-solve conflict!!new info
-
-
+solve conflict!!add new mag by new_branch.
+update by master
