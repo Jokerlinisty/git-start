@@ -1,5 +1,5 @@
 Hello, welcome to git world!
 
-local new text!
 new remote text!
-solve conflict!!
+solve conflict!!add new mag by new_branch.
+update by master
