@@ -7,3 +7,5 @@ new remote text!
 solve conflict!!add new mag by new_branch.
 update by master
 this is wrong line,needed to be deleted!!!
+
+fsaf
