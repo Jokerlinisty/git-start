@@ -5,7 +5,9 @@ fix  bug!!
 Hello, user1 0000000000 
 Hello, user1 1111111111 3333333 44444444 5555 666 77777777777
 Hello, this is user2 88888
->>>>>>> 284398944bd9182ad3892098d054c1f45b78dbe7
+Hello, user1 0000000000
+Hello, user1 1111111111 3333333 44444444 5555 666
+Hello, this is user2
 conflict remote text tooooood
 this is new form 4!
 solve conflict!!add new mag by new_branch.
