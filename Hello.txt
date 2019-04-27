@@ -3,7 +3,7 @@ Hello, welcome to git & world!
 
 fix  bug!!
 Hello, user1 0000000000
-Hello, user1
+Hello, user1 1111111111
 Hello, this is user2
 >>>>>>> 284398944bd9182ad3892098d054c1f45b78dbe7
 conflict remote text tooooood
