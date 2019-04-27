@@ -2,7 +2,7 @@
 Hello, welcome to git & world!
 
 fix  bug!!
-Hello, user1
+Hello, user1 0000000000
 conflict remote text tooooood
 this is new form 4!
 solve conflict!!add new mag by new_branch.
